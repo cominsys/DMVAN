@@ -15,6 +15,5 @@ Multimodal data can convey user emotions and feelings more effectively and inter
   title={Interpretable Multimodal Sentiment Classification Using Deep Multi-View Attentive Network of Image and Text Data}, 
   year={2023},
   volume={11},
-  number={},
   pages={91060-91081},
   doi={10.1109/ACCESS.2023.3307716}}
